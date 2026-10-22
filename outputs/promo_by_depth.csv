@@ -1,0 +1,4 @@
+depth,products,median_lift_pct,median_post_dip_pct,pct_revenue_positive,pct_profit_positive,net_revenue,net_profit_assumed_cost
+shallow (15-30%),163,203.0,8.0,82.0,66.0,133418.0,22304.0
+medium (30-40%),81,432.0,-6.0,88.0,40.0,45579.0,-1192.0
+deep clearance (>40%),487,674.0,-14.0,82.0,3.0,131788.0,-132245.0
