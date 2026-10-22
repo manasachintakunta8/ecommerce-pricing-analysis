@@ -1,0 +1,3 @@
+method,products,significant,pct_significant,median_elasticity_sig,p25,p75,pct_sig_positive
+naive,2426.0,2081.0,85.8,-2.63,-3.77,-1.87,0.1
+robust,2244.0,1784.0,79.5,-1.96,-2.66,-1.41,0.1
