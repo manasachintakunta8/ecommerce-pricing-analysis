@@ -1,0 +1,11 @@
+# Large raw data and the generated database (re-download / re-create with src/01_load_clean.py)
+data_raw/
+data/
+
+# Python environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
